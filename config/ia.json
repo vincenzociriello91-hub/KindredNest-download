@@ -1,5 +1,5 @@
 {
-  "versione": 5,
+  "versione": 6,
   "puter": {
     "immagini": [
       "gemini-nano-banana-2.1",
@@ -44,5 +44,8 @@
         "url": "https://prithivmlmods-qwen3-vl-outpost.hf.space"
       }
     ]
+  },
+  "rapporti": {
+    "indirizzo": "https://kindrednest-rapporti.vincenzociriello91.workers.dev/rapporto"
   }
 }
