@@ -1,5 +1,10 @@
 # Novità di KindredNest
 
+## Versione del 28 ottobre 2026
+- Nuova pagina **Novità e aggiornamenti** (la campanella in alto): le novità di ogni versione e, dopo ogni aggiornamento, una finestra con quelle nuove.
+- **Aggiornamenti dall'app:** quando esce una versione nuova KindredNest te lo chiede e, se vuoi, la scarica e la installa sopra quella che hai, senza perdere i progetti. Prima controlla che il file sia davvero KindredNest, firmato dallo sviluppatore.
+- **Rapporti tecnici facoltativi** per correggere più in fretta i problemi: solo dati tecnici, cifrati sul telefono, mai foto, nomi, note o posizione. Si attivano o spengono nelle Impostazioni.
+
 ## Versione di ottobre 2026
 - Nuova grafica, più moderna e accogliente.
 - Designer sul telefono: un'intelligenza artificiale gratis e senza limiti, anche senza internet, per consigli, liste dei mobili, planimetrie e scatole elettriche.
