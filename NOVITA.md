@@ -1,5 +1,9 @@
 # Novità di KindredNest
 
+## Rilievo più veloce del 31 ottobre 2026
+- Quando fotografi una stanza da più punti, la prima proposta arriva subito: l'app mette insieme le foto mentre arreda, invece di aspettare prima.
+- Se mettere insieme le foto ci mette più di due minuti, l'app va avanti da sola partendo dalla vista principale.
+
 ## Aggiornamento del 31 ottobre 2026
 - Quando la quota gratuita del mese di Puter è finita, il messaggio lo dice in italiano e in modo chiaro, senza rimandare a pagine di pagamento: l'app passa da sola al servizio di riserva gratuito.
 
