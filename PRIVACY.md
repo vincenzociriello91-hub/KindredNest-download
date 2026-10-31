@@ -23,7 +23,7 @@ Al primo avvio l'app chiede se può inviare rapporti tecnici per correggere i pr
 - **Perché:** solo per trovare e correggere i problemi dell'app. Base giuridica: il tuo consenso, che puoi ritirare quando vuoi (i rapporti non ancora inviati vengono cancellati).
 
 ## Aggiornamenti
-Per sapere se c'è una versione nuova l'app legge la pagina pubblica delle versioni su GitHub (al massimo ogni 12 ore) e, se lo confermi, scarica da lì il nuovo file. GitHub vede l'indirizzo IP della richiesta, come per qualsiasi pagina web.
+Per sapere se c'è una versione nuova l'app legge la pagina pubblica delle versioni su GitHub (quando apri l'app, al massimo ogni 15 minuti) e, se lo confermi, scarica da lì il nuovo file. GitHub vede l'indirizzo IP della richiesta, come per qualsiasi pagina web.
 
 ## Suggerimenti
 Si inviano su GitHub con il tuo account e sono pubblici.

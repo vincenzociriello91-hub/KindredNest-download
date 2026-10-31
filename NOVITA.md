@@ -1,5 +1,8 @@
 # Novità di KindredNest
 
+## Aggiornamenti più rapidi del 31 ottobre 2026
+- Quando esce una versione nuova, KindredNest te lo chiede appena apri l'app (o ci torni), invece di aspettare fino a 12 ore.
+
 ## Rilievo più veloce del 31 ottobre 2026
 - Quando fotografi una stanza da più punti, la prima proposta arriva subito: l'app mette insieme le foto mentre arreda, invece di aspettare prima.
 - Se mettere insieme le foto ci mette più di due minuti, l'app va avanti da sola partendo dalla vista principale.
