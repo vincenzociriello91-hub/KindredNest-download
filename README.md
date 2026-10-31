@@ -19,6 +19,9 @@ Scarica KindredNest **solo da questa pagina**: le copie prese altrove possono es
 - **Impianto elettrico**: conta le scatole 501, 502, 503, 504 e 506 dalle foto dei muri e prepara un preventivo per BTicino, Vimar, AVE o Master.
 - **Designer sul telefono**: un'intelligenza artificiale che gira direttamente sul telefono, gratis, senza limiti e anche senza internet.
 - **Negozi vicini**, condivisione su WhatsApp, Instagram, TikTok ed email, PDF del progetto.
+- **Novità e aggiornamenti** (la campanella in alto): quando esce una versione nuova l'app te lo chiede e la installa sopra quella che hai, senza perdere i progetti.
+- **Grafica in stile Google Pixel**, con i colori dello sfondo del telefono (da Android 12; si possono spegnere in Impostazioni › Aspetto).
+- **Rapporti tecnici facoltativi** per correggere più in fretta i problemi: solo dati tecnici, cifrati sul telefono, mai foto, nomi, note o posizione. Li attivi o li spegni nelle Impostazioni.
 
 ## Requisiti
 
