@@ -1,5 +1,9 @@
 # Novità di KindredNest
 
+## Versione del 31 ottobre 2026
+- Quando il servizio di riserva gratuito è occupato, l'app aspetta qualche secondo e riprova da sola invece di fermarsi: più proposte riescono al primo colpo.
+- Se una proposta non riesce perché Puter non è attivo, il messaggio spiega che si attiva gratis dalla Home.
+
 ## Nuova grafica del 28 ottobre 2026
 - Grafica in stile Google Pixel: KindredNest prende i colori dallo sfondo del tuo telefono (da Android 12). Se preferisci i colori salvia e rovere dell'app, lo spegni in Impostazioni › Aspetto.
 - Sui telefoni Pixel titoli e testi usano il carattere del sistema, Google Sans.
