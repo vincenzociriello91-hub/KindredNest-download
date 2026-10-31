@@ -1,5 +1,8 @@
 # Novità di KindredNest
 
+## Aggiornamento del 31 ottobre 2026
+- Quando la quota gratuita del mese di Puter è finita, il messaggio lo dice in italiano e in modo chiaro, senza rimandare a pagine di pagamento: l'app passa da sola al servizio di riserva gratuito.
+
 ## Versione del 31 ottobre 2026
 - Quando il servizio di riserva gratuito è occupato, l'app aspetta qualche secondo e riprova da sola invece di fermarsi: più proposte riescono al primo colpo.
 - Se una proposta non riesce perché Puter non è attivo, il messaggio spiega che si attiva gratis dalla Home.
